@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+		System.out.println("Come on Let's Say Hello World! ");
  //syntax  Scanner  <Name of the Scanner> = new Scanner(System.in);
 	       Scanner input = new Scanner(System.in);
 
