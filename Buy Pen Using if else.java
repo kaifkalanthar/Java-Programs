@@ -6,7 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in);
-        System.out.println("Enter a cost : ");
+        System.out.println("Enter a cost : "+Cost);
+
         int Cost=scanner.nextInt();
         if (Cost==10){
             System.out.println("You can buy Normal pen");
