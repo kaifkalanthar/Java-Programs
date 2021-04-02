@@ -6,6 +6,7 @@ public class ifelse{
 
     public static void main(String[] args) {
         // write your code here
+        //if else
         Scanner scanner =new Scanner(System.in);
         System.out.println("Enter a cost : ");
         int Cost=scanner.nextInt();
