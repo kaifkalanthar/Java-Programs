@@ -16,7 +16,7 @@ public class part3 {
         while (m1.find()){
             System.out.println(m1.group());
         }
-
+        //^,$,[abc],[^abc],[0 - 9],||
          */
         Pattern p2=Pattern.compile("i || a");
         Matcher m2 =p.matcher(set);
